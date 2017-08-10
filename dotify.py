@@ -18,7 +18,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 plt.close('all')
-samp_jpg = "clef2.jpg" # Set the filename of the image
+samp_jpg = "clef.jpg" # Set the filename of the image
 #samp_jpg = "probo.jpg" # Set the filename of the image
 samp_img = Image.open(samp_jpg) # Load the image as an image object
 
@@ -50,4 +50,4 @@ for i in range(0,inds[0,:].size):
 ## Show and save the image (with bad resolution of 300 dpi)
 plt.axis('off')
 plt.axis('image')
-plt.savefig(samp_jpg[0:(len(samp_jpg)-4)]+'_dotted.png',dpi=300, bbox_inches='tight',pad_inches = 0)
+plt.savefig(samp_jpg[0:(len(samp_jpg)-4)]+'_dotted.png',dpi=100, bbox_inches='tight',pad_inches = 0)
