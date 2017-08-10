@@ -1,8 +1,8 @@
 Dotify is a script to convert images to dotted versions. 
 
+<img src="https://github.com/gostopa1/Dotify.py/blob/master/clef.jpg" alt="Drawing" style="width: 200px;"/>
 
-![Clef](https://github.com/gostopa1/Dotify.py/blob/master/clef.jpg =200x)
-![Clef dotted](https://github.com/gostopa1/Dotify.py/blob/master/clef_dotted.png =200x)
+<img src="https://github.com/gostopa1/Dotify.py/blob/master/clef_dotted.png" alt="Drawing2" style="width: 200px;"/>
 
 Initial motivation was when I wanted to make an image with nails on wood and was look
 
