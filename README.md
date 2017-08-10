@@ -1,4 +1,4 @@
-Dotify is a script to convert images to dotted versions. 
+Dotify is a script to convert images to dotted versions. See an example here:
 
 Oirignal            |  Dotted
 :-------------------------:|:-------------------------:
